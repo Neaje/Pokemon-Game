@@ -47,7 +47,7 @@ python3 pokemon.py
 
 Additionally, the executable can be constructed manually via the following command:
 ```sh
-pyinstaller --onefile --windowed --add-data "assets/images:assets/images" script_v8.py
+pyinstaller --onefile --windowed --add-data "assets/images:assets/images" pokemon.py
 
 # The executable is now in the dist directory
 dist
