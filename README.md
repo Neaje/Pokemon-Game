@@ -9,6 +9,7 @@
 
   <p align="center">
     A relatively simple game involving the Pokémon universe.
+    </p>
 
 ## About The Project
 
