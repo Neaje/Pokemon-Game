@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Neaje/Pokemon-Game">
-    <img src="assets/images/logo.png" alt="Logo" width="370" height="136">
+    <img src="assets/readme_img/logo.png" alt="Logo" width="370" height="136">
   </a>
 
 <h3 align="center">Pokémon Doge Game</h3>
@@ -63,4 +63,4 @@ dist
 [pygame-url]: https://www.pygame.org/news
 [pyinstaller]: https://img.shields.io/badge/pyinstaller-0769AD?style=for-the-badge&logo=python
 [pyinstaller-url]: https://pypi.org/project/pyinstaller/
-[product-screenshot]: assets/images/product-screenshot.png
+[product-screenshot]: assets/readme_img/product-screenshot.png
