@@ -7,9 +7,11 @@
 
 <h3 align="center">Pokémon Doge Game</h3>
 
-  <p align="center">
+ <p align="center">
     A relatively simple game involving the Pokémon universe.
-    </p>
+ </p>
+</div>
+
 
 ## About The Project
 
